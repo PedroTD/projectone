@@ -3,3 +3,7 @@ def operations(a, b):
     
 operations(1, 2)
 
+
+"Vamos a añadir la operación resta."
+
+
